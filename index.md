@@ -1,13 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-# CASH IS THE BEST
-## He's so cool
+# Hopeless Permaculture Designs
 
-#### He's so cool
-
-<div style="color:red;">Oh, hey there!</div>
+Permaculture designs without expectation. By detaching from outcome, we open ourselves and our homes up to the most wonderful possibilities.

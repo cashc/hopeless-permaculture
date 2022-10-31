@@ -13,17 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: hello, world
-email: your-email@example.com
+title: Hopeless Permaculture
+email: cashscompton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-instagram_username: cash_hola
-github_username:  cashc
-domain: cashc.github.io
-url: https://cashc.github.io
-baseurl: /hello-world-starter-website/
+  Permaculture design consultations by donation.
+instagram_username: what.is.waste
+domain: https://www.hopelesspermaculture.com
+url: https://www.hopelesspermaculture.com
 
 # Build settings
 markdown: kramdown
